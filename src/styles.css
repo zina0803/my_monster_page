@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  text-decoration:none; 
+}
+
+.header-list li:link {
+  color:skyblue;
+}
+
+.header-list li:visited {
+  color:navy;
+}
+
+.header-list li:hover {
+  color:#FF0099;
+  text-decoration:underline;
+}
+
+.header-list li:active {
+  color:#33CC00;
+}
+
+.slide-routes {
+  border-radius: 10px;
+}
